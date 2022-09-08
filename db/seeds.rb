@@ -12,7 +12,7 @@ c6 = Patient.create(first_name: Faker::Name.first_name, last_name: Faker::Name.l
 c7 = Patient.create(first_name: Faker::Name.first_name, last_name: Faker::Name.last_name, email: Faker::Internet.email)
 
 puts "🌱 Seeding consultations..."
-s1 = consultation.create(name: "Vinyasa Yoga", description: "Yoga characterized by stringing postures together so that you move from one to another, seamlessly, using breath.", date: "10/8/2022", time: "9:00 AM", duration: 60, price: 10, physician: "Shawna")
+s1 = onsultation.create(name: "Vinyasa Yoga", description: "Yoga characterized by stringing postures together so that you move from one to another, seamlessly, using breath.", date: "10/8/2022", time: "9:00 AM", duration: 60, price: 10, physician: "Shawna")
 s2 = Consultation.create(name: "Hot Yoga", description: "Yoga as exercise performed under hot and humid conditions, resulting in considerable sweating", date: "10/8/2022", time: "11:00 AM", duration: 50, price: 15, physician: "Jae")
 s3 = Consultation.create(name: "Meditation", description: "This physician will focus on slow, deep breathing techniques and meditative postures. Move gracefully and synchronize the breath with the movement.", date: "10/9/2022", time: "10:00 AM", duration: 30, price: 12, physician: "Natalie")
 s4 = Consultation.create(name: "Meditation (1 hour)", description: "This physician will focus on slow, deep breathing techniques and meditative postures. Move gracefully and synchronize the breath with the movement.", date: "10/8/2022", time: "12:00 PM", duration: 60, price: 15, physician: "Joe")
