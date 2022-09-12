@@ -116,6 +116,7 @@ Or you can access the web application directly via this [LINK.](link.com/)
 ## SCREENSHOTS
 ![Screenshot from 2022-09-12 07-39-35](https://user-images.githubusercontent.com/24671358/189575305-36d5334c-93fc-4b74-aee8-6d1835d31654.png)
 ![Screenshot from 2022-09-12 07-40-19](https://user-images.githubusercontent.com/24671358/189575308-2a7f93ea-1b30-4c39-a7c2-3550b41c6864.png)
+![Screenshot from 2022-09-12 07-40-28](https://user-images.githubusercontent.com/24671358/189575312-25f82bd8-ce0c-44dc-8ba3-3c7998a57bcb.png)
 
 ## Resources
 
